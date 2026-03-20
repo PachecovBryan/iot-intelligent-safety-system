@@ -1,16 +1,16 @@
-# Archivos de compilación
-*.bin
-*.elf
+# VS Code
+.vscode/
 
-# Arduino / PlatformIO
+# PlatformIO / Arduino
 .pio/
 .build/
 
-# VS Code
-.vscode/
+# Compilados
+*.bin
+*.elf
 
 # Logs
 *.log
 
-# Archivos temporales
+# Temporales
 *.tmp
